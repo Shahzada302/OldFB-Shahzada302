@@ -37,7 +37,7 @@ def _____mrpoco_____():
 os.system('espeak -a 300 " Assalamu' 'olaikum"')
 os.system('espeak -a 300 " Your,   Real,  Name,"')
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m:\33[1;32m')
-os.system('espeak -a 300 "well,come to,WALEED, tools"')
+os.system('espeak -a 300 "well,come to,Ajmal, tools"')
 os.system('xdg-open https://chat.whatsapp.com/HIRRKKdxyQZKT14GM9dohr?mode=ac_t')
 logo = f'''\n
 \033[1;37m██╗    ██╗ █████╗ ██╗     ███████╗███████╗██████╗
